@@ -1,0 +1,26 @@
+/* public/css/sidebar.css atau sesuaikan dengan struktur direktori Anda */
+.main-sidebar {
+    background-color: #e40000;
+    color: #813f3f;
+}
+
+.sidebar-menu a {
+    color: #db0000;
+}
+
+.sidebar-menu a:hover {
+    background-color: #333;
+}
+
+.header {
+    color: #ffcc00;
+}
+
+.fa {
+    margin-right: 10px;
+}
+
+/* Jika Anda ingin menambahkan efek hover pada ikon */
+.sidebar-menu a:hover i {
+    color:  #0084ff;
+}
